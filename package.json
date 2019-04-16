@@ -23,6 +23,7 @@
     "integration"
   ],
   "author": "Ariel Rey <ariel.rey@mercadolibre.com>",
+  "contributors": [{ "name" : "Leonardo Nomdedeu", "email" : "nomdedeu@gmail.com", "url" : "https://www.linkedin.com/in/leonardonomdedeu"} ],
   "bugs": {
     "url": "https://github.com/mercadopago/dx-nodejs/issues"
   },

@@ -8,6 +8,7 @@
 
 This library provides developers with a simple set of bindings to the MercadoPago API. You can read the full [documentation here](https://github.com/mercadopago/px-nodejs/wiki).
 
+
 **Warning**: [Important updates in changelog](CHANGELOG.MD)
 
 ### Node.js Versions Support
@@ -73,6 +74,8 @@ You **don't need to instantiate** `mercadopago`. It's a global singleton accross
 * [Money Requests](https://github.com/mercadopago/px-nodejs/wiki/Money-Requests)
 * [MercadoPago Connect](https://github.com/mercadopago/px-nodejs/wiki/MercadoPago-Connect)
 * [IPN Notifications](https://github.com/mercadopago/px-nodejs/wiki/IPN-Notifications)
+* Plans (doc. in progress)
+* Subscriptions (doc. in progress)
 
 ## Examples
 
