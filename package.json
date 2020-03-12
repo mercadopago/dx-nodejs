@@ -45,6 +45,7 @@
     "moment": "^2.24.0",
     "request": "^2.88.0",
     "request-etag": "2.0.3",
+    "sync-request": "^6.1.0",
     "uuid": "3.0.1"
   }
 }
